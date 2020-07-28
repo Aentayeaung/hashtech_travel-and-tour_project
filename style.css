@@ -1,0 +1,106 @@
+.navication {
+    background-color: #1c253c;
+    text-align: left;
+    padding: 20px 0;
+}
+.navication a {
+    color: white;
+    font-size: 17px;
+}
+.navication ul {
+    margin: 0;
+}
+.hero {
+    padding: 150px 0;
+    background-image: url(space-travel.jpg);
+    color: palegoldenrod;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+.home-hero {
+    font-size: 100px;
+    font-family: 'Rowdies', cursive;
+    font-family: 'Yellowtail', cursive;
+    color: #00e5ff;
+}
+
+.footer {
+    background: #1c253c;
+    color: orange;
+    text-align: center;
+    padding: 5px 0;
+    margin: auto;
+}
+.about-content {
+    padding: 10px 0;
+    background-image: url(about-image.jpg);
+    height: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    text-emphasis: bold;
+    font-size: 17px;
+    background-attachment: fixed;
+
+}
+
+/* --about-page-- */
+.about-navication {
+    background-color: #1c253c;
+    padding: 20px 0;
+}
+.card-img-top {
+    height: auto;
+    width: 320px;
+}
+.container {
+    font-family: 'Merriweather', serif;
+}
+.btn-primary{
+    background-color: transparent;
+    color: #1c253c;
+    
+}
+/* -contact- */
+.contact-body {
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+}
+.btn:hover {
+    color: black;
+    background-color: skyblue;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#contact-body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.btn {
+    background-color: blue;
+    color: white;
+}
+.col-md-4 {
+    text-align: center;
+}
